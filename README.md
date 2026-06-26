@@ -379,7 +379,7 @@ g++ -o student_simulator main.cpp -std=c++11 -fexec-charset=GBK
 ---
 
 **祝你大学生活愉快！🎉**
-```
+
 
 
 
