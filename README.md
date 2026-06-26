@@ -1,10 +1,4 @@
-好的！我来更新 README，将许可证部分改为 Apache-2.0 License。
 
----
-
-## 📄 更新后的 README.md (包含 Apache-2.0 License)
-
-```markdown
 # 🎓 Student Life Simulator v2.0
 
 ### *一款基于C++和SFML的校园生活模拟游戏*
