@@ -334,10 +334,11 @@ limitations under the License.
 
 ---
 
-## 👨‍💻 作者
+## 项目人员信息
 
-- **开发者**: [Duck]
+- **开发人员**:Duck、MLC、Z
 - [MagiciansWand](https://2015137.xyz)-MagiciansWand官网
+- **产品策划**：Duck
 ---
 
 ## 🙏 致谢
